@@ -1,2 +1,3 @@
 nginx
-onething1/wxedge:latest
+jlesage/firefox:latest
+
