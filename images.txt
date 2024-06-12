@@ -2,3 +2,4 @@ nginx
 jlesage/firefox:latest
 whyour/qinglong:2.12.2
 developer024/networkdownload
+xiaoyaliu/alist
