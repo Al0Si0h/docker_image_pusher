@@ -4,3 +4,4 @@ whyour/qinglong:2.12.2
 developer024/networkdownload
 xiaoyaliu/alist
 nastool/nas-tools
+onething1/wxedge
